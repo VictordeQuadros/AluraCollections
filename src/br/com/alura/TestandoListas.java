@@ -7,6 +7,7 @@ public class TestandoListas {
 
 	public static void main(String[] args) {
 
+// 		AULA 01
 		String aula1 = "Conhecendo mais de lista";
 		String aula2 = "Modelando a classe Aula";
 		String aula3 = "Trabalhando com Cursos e Sets";
@@ -39,11 +40,10 @@ public class TestandoListas {
 		
 		
 		aulas.add("Aumentando nosso conhecimento");
-		System.out.println(aulas);
-		
+		System.out.println(aulas);		
 		Collections.sort(aulas);
 		System.out.println(aulas);
-		
+// 	
 		
 	
 	 
